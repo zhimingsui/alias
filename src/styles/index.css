@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+}
+
+div {
+  height: 50vh;
+  background-color: #fcc;
+}
